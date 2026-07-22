@@ -61,7 +61,7 @@ export function FaqWidget() {
         setMessages((m) => updateLast(m, acc));
       }
     } catch {
-      setMessages((m) => updateLast(m, "Network error — please try again."));
+      setMessages((m) => updateLast(m, "Network error, please try again."));
     } finally {
       setBusy(false);
     }

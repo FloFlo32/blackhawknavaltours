@@ -1,10 +1,15 @@
 import { Navbar } from "@/components/sections/navbar";
 import { Hero } from "@/components/sections/hero";
-import { LogoCloud } from "@/components/sections/logo-cloud";
-import { Bento } from "@/components/sections/bento";
-import { Features } from "@/components/sections/features";
-import { Proof } from "@/components/sections/stats";
-import { CTA } from "@/components/sections/cta";
+import { Differentiators } from "@/components/sections/differentiators";
+import { Experiences } from "@/components/sections/experiences";
+import { CustomCta } from "@/components/sections/custom-cta";
+import { Vessels } from "@/components/sections/vessels";
+import { Heritage } from "@/components/sections/heritage";
+import { Mission } from "@/components/sections/mission";
+import { Story } from "@/components/sections/story";
+import { GallerySection } from "@/components/sections/gallery-section";
+import { Testimonials } from "@/components/sections/testimonials";
+import { FinalCta } from "@/components/sections/final-cta";
 import { Footer } from "@/components/sections/footer";
 
 export default function Home() {
@@ -13,11 +18,16 @@ export default function Home() {
       <Navbar />
       <main className="flex-1">
         <Hero />
-        <LogoCloud />
-        <Features />
-        <Bento />
-        <Proof />
-        <CTA />
+        <Differentiators />
+        <Experiences />
+        <CustomCta />
+        <Vessels />
+        <Heritage />
+        <Mission />
+        <Story />
+        <GallerySection />
+        <Testimonials />
+        <FinalCta />
       </main>
       <Footer />
     </>
