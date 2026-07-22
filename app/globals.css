@@ -15,7 +15,7 @@
 
 :root {
   /* brand:hue:start */
-  --brand-hue: 265; /* set by brand.config.ts */
+  --brand-hue: 258; /* set by brand.config.ts */
 /* brand:hue:end */
 
   /* radius — brand:corners controls this via `npm run brand` */
@@ -54,6 +54,12 @@
   --aurora-1: oklch(0.7 0.2 var(--brand-hue));
   --aurora-2: oklch(0.72 0.18 calc(var(--brand-hue) + 60));
   --aurora-3: oklch(0.75 0.16 calc(var(--brand-hue) - 50));
+
+  /* Secondary accent, pulled from the logo's gold rope + red star detailing.
+     Used sparingly (ratings, badges, dividers) — never as the primary color. */
+  --gold: oklch(0.78 0.14 85);
+  --gold-foreground: oklch(0.22 0.03 85);
+  --navy-deep: oklch(0.22 0.06 var(--brand-hue));
 }
 
 .dark {
@@ -114,6 +120,9 @@
   --color-aurora-1: var(--aurora-1);
   --color-aurora-2: var(--aurora-2);
   --color-aurora-3: var(--aurora-3);
+  --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
+  --color-navy-deep: var(--navy-deep);
 
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);

@@ -1,0 +1,160 @@
+{
+  "source": "https://blackhawknavaltours.com",
+  "ingestedFromHost": "blackhawknavaltours.com",
+  "pagesCrawled": 7,
+  "name": "Blackhawk Boat Tours",
+  "tagline": "Blackhawk Boat Tours | High-Speed Chicago River & Lake Tours",
+  "description": "Blackhawk Boat Tours offers thrilling Chicago River and Lake Michigan adventures aboard military-grade vessels. Enjoy skyline views, private charters, family-friendly experiences, and expert-guided high-speed boat tours.",
+  "domain": "blackhawknavaltours.com",
+  "brandColor": {
+    "hex": "#e7000b",
+    "src": "css-frequency",
+    "oklchHue": 28
+  },
+  "theme": {
+    "hue": 28
+  },
+  "fonts": [
+    "Roboto",
+    "Roboto Slab",
+    "Inter",
+    "Libre Franklin"
+  ],
+  "logo": "assets/logo.webp",
+  "logoNote": null,
+  "favicon": "https://blackhawknavaltours.com/wp-content/uploads/2026/06/Untitled-1.jpg",
+  "images": [
+    "/ingested/blackhawknavaltours/img-001.webp",
+    "/ingested/blackhawknavaltours/img-002.webp",
+    "/ingested/blackhawknavaltours/img-003.webp",
+    "/ingested/blackhawknavaltours/img-004.webp",
+    "/ingested/blackhawknavaltours/img-005.webp",
+    "/ingested/blackhawknavaltours/img-007.webp",
+    "/ingested/blackhawknavaltours/img-008.webp",
+    "/ingested/blackhawknavaltours/img-009.webp",
+    "/ingested/blackhawknavaltours/img-010.webp",
+    "/ingested/blackhawknavaltours/img-011.webp",
+    "/ingested/blackhawknavaltours/img-012.webp",
+    "/ingested/blackhawknavaltours/img-013.webp",
+    "/ingested/blackhawknavaltours/img-014.webp",
+    "/ingested/blackhawknavaltours/img-015.webp",
+    "/ingested/blackhawknavaltours/img-016.webp"
+  ],
+  "imageCount": 15,
+  "social": {
+    "email": "blackhawkboattours@gmail.com"
+  },
+  "whatsapp": null,
+  "phone": "(312)%20900-4604",
+  "location": null,
+  "sectionOrder": [
+    "Fast Boats. Big City. YOUR TOUR.",
+    "What Makes Us Different",
+    "Experiences Built for Adventure",
+    "Custom Adventure Tours",
+    "Military-Grade Performance",
+    "From the USS Laboon",
+    "From the USS Leyte Gulf",
+    "Mission Statement",
+    "Born from a Love of Adventure",
+    "Gallery",
+    "What People Say",
+    "Ready to Feel the Rush?"
+  ],
+  "navItems": [
+    {
+      "text": "Home Experiences Our Vessels About Us Home Experiences Our Vessels About Us Book Now",
+      "url": "https://blackhawknavaltours.com/undefined",
+      "path": "/undefined"
+    },
+    {
+      "text": "Experiences",
+      "url": "https://blackhawknavaltours.com/experiences/",
+      "path": "/experiences"
+    },
+    {
+      "text": "Our Vessels",
+      "url": "https://blackhawknavaltours.com/our-vessels/",
+      "path": "/our-vessels"
+    },
+    {
+      "text": "About Us",
+      "url": "https://blackhawknavaltours.com/about-us/",
+      "path": "/about-us"
+    }
+  ],
+  "footerItems": [
+    {
+      "text": "VIEW EXPERIENCES",
+      "url": "https://blackhawknavaltours.com/experiences/",
+      "path": "/experiences"
+    },
+    {
+      "text": "Our Vessels",
+      "url": "https://blackhawknavaltours.com/our-vessels/",
+      "path": "/our-vessels"
+    },
+    {
+      "text": "About Us",
+      "url": "https://blackhawknavaltours.com/about-us/",
+      "path": "/about-us"
+    },
+    {
+      "text": "Gallery",
+      "url": "https://blackhawknavaltours.com/gallery/",
+      "path": "/gallery"
+    }
+  ],
+  "innerPages": [
+    {
+      "path": "/experiences/",
+      "title": "Blackhawk Boat Tours Experiences | Chicago River & Lake Adventures",
+      "sections": [
+        "CHOOSE YOUR ADVENTURE",
+        "OUR EXPERIENCES",
+        "WHY RIDE WITH US",
+        "Experiences Built for Adventure",
+        "Gallery",
+        "What People Say",
+        "Ready to Feel the Rush?"
+      ]
+    },
+    {
+      "path": "/our-vessels/",
+      "title": "Blackhawk Boat Tours Vessels | Military-Grade Navy Style Boats",
+      "sections": [
+        "OUR VESSELS - MILITARY-GRADEy PERFORMANCE",
+        "U.S. NAVY RIGID-HULL INFLATABLE BOATS",
+        "WHY RIDE WITH US",
+        "SAFETY FIRST. ALWAYS.",
+        "Ready to Feel the Rush?"
+      ]
+    },
+    {
+      "path": "/about-us/",
+      "title": "Blackhawk Boat Tours About Us | Chicago’s Premier High-Speed Boat Tours",
+      "sections": [
+        "BORN FROM A LOVE OF ADVENTURE",
+        "THE BLACKHAWK STORY",
+        "CAPTAIN KEN",
+        "What Makes Us Different",
+        "Ready to Feel the Rush?"
+      ]
+    },
+    {
+      "path": "/contact-us/",
+      "title": "Blackhawk Boat Tours Contact Us | Book Your Chicago Boat Adventure",
+      "sections": [
+        "YOUR ARRIVAL GUIDE"
+      ]
+    },
+    {
+      "path": "/gallery/",
+      "title": "Blackhawk Boat Tours Gallery | Chicago River & Lake Tour Photos",
+      "sections": [
+        "Gallery",
+        "Ready to Feel the Rush?"
+      ]
+    }
+  ]
+}
